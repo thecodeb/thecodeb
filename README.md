@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian "TheCodeB" Casado</h1>
-<h3 align="center">A junior full-stack developer from Spain</h3>
+<h3 align="center">A full-stack developer from Spain</h3>
 
 # 💫About Me :
 🌱 I’m currently learning React, Redux, NgRx
