@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian "TheCodeB" Casado</h1>
-<h3 align="center">A full-stack developer from Spain</h3>
+<h3 align="center">A Functional Analist & Front-End developer from Spain</h3>
 
 # 💫About Me :
-🌱 I’m currently learning React, Redux, NgRx
-💬 Ask me about JavaScript, Angular
+🌱 I’m currently learning Astro, LitElement, React & Redux
+💬 Ask me about JavaScript, Angular or Vue
 📫 How to reach me thecodeb.contact@gmail.com
 
 ## 🌐Socials
