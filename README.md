@@ -3,7 +3,9 @@
 
 # 💫About Me :
 🌱 I’m currently learning Astro, LitElement, React & Redux
+<br/>
 💬 Ask me about JavaScript, Angular or Vue
+<br/>
 📫 How to reach me thecodeb.contact@gmail.com
 
 ## 🌐Socials
